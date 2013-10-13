@@ -38,15 +38,14 @@ Thank you for downloading UserCake, the simple user management package.
 5. To use the installer visit `http://yourdomain.com/install/` in your browser. UserCake will attempt to build the database for you. After completion
    delete the install folder.
 
--  That's it you're good to go! In only five steps you have a fully functional user management system.
-   For further documentation visit http://usercake.com
+That's it you're good to go! In only five steps you have a fully functional user management system.
+For further documentation visit http://usercake.com
 
 ### Credits
 
 UserCake created by: Adam Davis
 UserCake V2.0 designed by: Jonathan Cassels
 Copyright (c) 2009-2013
----------------------------------------------------------------
 
 Vers: 2.0.2
 http://usercake.com
